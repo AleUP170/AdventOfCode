@@ -1,5 +1,7 @@
 from functools import cache
 
+# Was completely stumped with this one, shoutouts to u/AllanTaylor314 for the breakdown of the logic
+
 f = open("input.txt", "r")
 lines = f.read().splitlines()
 f.close()
